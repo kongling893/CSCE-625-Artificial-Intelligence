@@ -1,0 +1,8 @@
+
+Simplifying_Mathematical_Expressions_via_A*
+===============
+main.py is the main file to run the program.
+
+Just run this file for inputting equation and getting result.
+
+You should install PLY module before you run this file.
